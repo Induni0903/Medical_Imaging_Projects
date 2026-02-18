@@ -1,6 +1,6 @@
-# Medical_Imaging_Projects
 
 # Deep Learning for Brain Tumor Segmentation
+## Medical Imaging & Big Data Analysis | Data Science Master's Degree
 
 **Authors:**  
 Induni Sandapiumi Nawarathna Pitiyage (ID: 906451)  
