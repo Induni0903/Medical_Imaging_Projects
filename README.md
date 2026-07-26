@@ -1,5 +1,5 @@
 
-# Deep Learning for Brain Tumor Segmentation
+# Deep Learning for Brain Tumor Segmentation : Medical Imaging projects
 ## Medical Imaging & Big Data Analysis | Data Science Master's Degree
 
 **Authors:**  
